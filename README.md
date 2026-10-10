@@ -243,18 +243,6 @@ Join the [Discord](https://discord.gg/TZUYsZgrRG) — ask questions, share engag
 
 ---
 
-## Disclaimer
-
-Do not use this project on any system or network without explicit written authorization from the system owner. Unauthorized access to computer systems is illegal. You are solely responsible for your actions. The authors and contributors assume no liability for misuse.
-
----
-
-## License
-
-[Apache-2.0](LICENSE)
-
----
-
 <div align="center">
   <img src="assets/main.png" alt="Decepticon">
 </div>
