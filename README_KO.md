@@ -198,18 +198,6 @@ Tier 기반 자격증명-aware 폴백 체인. 사용 가능한 자격증명을 �
 
 ---
 
-## 기여하기
-
-```bash
-git clone https://github.com/PurpleAILAB/Decepticon.git
-cd Decepticon
-make dev     # 핫 리로드로 시작
-make cli     # 인터랙티브 CLI 열기 (별도 터미널)
-```
-
-→ **[기여 가이드](docs/contributing.md)**
-
----
 
 ## 커뮤니티
 

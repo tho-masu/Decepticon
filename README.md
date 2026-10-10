@@ -224,18 +224,6 @@ Configure via `decepticon onboard`. → **[Full model reference & fallback examp
 
 ---
 
-## Contributing
-
-```bash
-git clone https://github.com/PurpleAILAB/Decepticon.git
-cd Decepticon
-make dogfood  # Full OSS UX (launcher → onboard → CLI) on local code
-make dev      # Backend hot-reload (compose watch) — daily dev loop
-```
-
-→ **[Contributing guide](docs/contributing.md)**
-
----
 
 ## Community
 
